@@ -1,4 +1,7 @@
 /task2/task2/settings.py
 .env
 /venv
-/task2/task2/__pycache__
+*.pyc
+*.pyo
+build/
+dist/
