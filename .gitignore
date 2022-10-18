@@ -3,5 +3,6 @@
 /venv
 /task2/task2/__pycache__/*.pyc
 *.pyc
+*.pyo
 build/
 dist/
